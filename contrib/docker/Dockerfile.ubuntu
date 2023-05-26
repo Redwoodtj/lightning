@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 LABEL mantainer="Vincenzo Palazzo vincenzopalazzodev@gmail.com"
 
 WORKDIR /work
