@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:22.10
 LABEL mantainer="Vincenzo Palazzo vincenzopalazzodev@gmail.com"
 
 WORKDIR /work
